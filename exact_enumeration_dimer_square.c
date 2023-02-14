@@ -6,7 +6,6 @@
 #define L 4
 #define N (L*L)
 #define PS 3//number of particle types (hd, vd and square)
-#define NP 2//number of particles in lattice
 #define MAX 1000000//maximum dimer states
 
 int lat[N],ln[N],rn[N],tn[N],bn[N],con_s[N/2];
@@ -229,6 +228,7 @@ int main()
 
 	node++;
 	printf("dimers+squares=%d\t%d\n",node,count);
+	//N/2 is the maximum number of particles in the system
 	while(node<N/2)
 	{
 		count=0;
