@@ -11,3 +11,5 @@ does not have such drawback and should be able to enumerate all the configuratio
 with increasing system size and the algorithm takes a lot of time to enumerate all such configurations. For example total number of configurations in 1-NN model of
 system size 4, 5, 6 and 8 are respectively 743, 25531, 2406862 and 213256442503. Data files obtained from the codes are also attached for both 1-NN and dimer
 lattice-gas models.
+
+Both algorithms are obtained from the book "Statistical Mechanics: Algorithms and computations" by Werner Krauth.
