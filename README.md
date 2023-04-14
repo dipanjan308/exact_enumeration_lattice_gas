@@ -1,5 +1,5 @@
 # Exact enumeration of lattice gas model
-These codes enumerate all configurations for the system of hard particles (dimer,  mixture of dimers and 2 X 2 squares, 1-NN particles) on square lattice using 
+These codes enumerate all configurations for the system of hard particles (dimer,  mixture of dimers and 2 X 2 squares, 1-NN particles) on square lattice with periodic boundary conditions along both directions using 
 "breadth-first" and "depth-first" algorithm. Codes for dimer model and 1-NN model uses only "depth-first" algorithm. 1-NN is the nearest neighbour exclusion model
 in which lattice sites upto 1st nearest neighbour are excluded from being occupied by the particles. The codes can be generalised to the lattice models of any 
 particle shape.
