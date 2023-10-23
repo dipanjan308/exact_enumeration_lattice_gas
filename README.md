@@ -9,4 +9,4 @@ with increasing system size and the algorithm takes a lot of time to enumerate a
 system size 4, 5, 6 and 8 are respectively 743, 25531, 2406862 and 213256442503. Data files obtained from the codes are also attached for both 1-NN and dimer
 lattice-gas models.
 
-Both algorithms are obtained from the book "Statistical Mechanics: Algorithms and computations" by Werner Krauth.
+Both algorithms are obtained from the book [Statistical Mechanics: Algorithms and computations](https://global.oup.com/ukhe/product/statistical-mechanics-algorithms-and-computations-9780198515364?cc=gb&lang=en&), by Werner Krauth.
